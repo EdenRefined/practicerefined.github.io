@@ -1,1 +1,6 @@
-# practicerefined.github.io
+This is a practice repo
+But practice makes perfect....
+
+
+So I will keep on practicing!
+
